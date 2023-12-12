@@ -1281,8 +1281,7 @@ geom_bar(stat="identity", fill="steelblue")+
 geom_text(aes(label=round(TotalSteps, digits=0)), vjust=1.6, color="white", size=5.5) + 
 labs(title="Total Steps Walked On Average Each Day", x="Day", y="Number of Steps")
 ```
-
-![](Case_Study_2_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![unnamed-chunk-19-1](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/7d6fa017-1b98-4e3f-8914-ca62350df2cb)
 
 ``` r
 # 2. Comparing weekday vs weekend activity cont.
@@ -1321,7 +1320,7 @@ steps_vs_calories_graph
 
     ## `geom_smooth()` using formula = 'y ~ x'
 
-![](Case_Study_2_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->
+![unnamed-chunk-21-1](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/10917710-33b7-4359-b2c2-a8276fbce1ad)
 
 From the scatter plot above, the total number of steps walked daily is
 positively correlated to the number of calories burnt daily.
@@ -1346,8 +1345,7 @@ labs(x="Time Taken to Sleep (mins)", y="Number of Occurences", title="Time Taken
 
 time_taken_to_sleep_graph
 ```
-
-![](Case_Study_2_files/figure-gfm/unnamed-chunk-22-1.png)<!-- -->
+![unnamed-chunk-22-1](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/84fe9d3a-bb03-4ebc-b539-180c6c115ede)
 
 ``` r
 # Comparing respondents' time in bed and time asleep
@@ -1360,7 +1358,7 @@ labs(x="Total Time in Bed (mins)", y="Total Time Asleep (mins)",
 
     ## `geom_smooth()` using formula = 'y ~ x'
 
-![](Case_Study_2_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+![unnamed-chunk-23-1](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/dd66f5e5-6a02-4713-83b8-1784c53f005b)
 
 From the first graph (titled: Time Taken to Sleep by Respondents), most
 of the respondents spend about 0 - 100 mins in bed before falling
@@ -1411,10 +1409,7 @@ pulled data from the ordered_seconds_heartrate_table table and the
 ordered_daily_activity_table table and used Tableau to plot the graphs
 below.
 
-<figure>
-<img src="" alt="Tableau 1" />
-<figcaption aria-hidden="true">Tableau 1</figcaption>
-</figure>
+<![TabL(1)](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/22c1f5c9-3a72-4cd5-a849-7c868d2ff62f)
 
 The above graph shows the number of occurences of bradycardia each day
 amongst all the respondents in the updated_seconds_heartrate_table
@@ -1423,10 +1418,7 @@ table.
 The following graph shows the number of occurences of bradycardia each
 day for respondent 2022484408.
 
-<figure>
-<img src="" alt="Tableau 1.5" />
-<figcaption aria-hidden="true">Tableau 1.5</figcaption>
-</figure>
+![TabL(1 5)](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/8c819613-1883-42d7-8ef8-dbd0afaae6f4)
 
 Respondent 2022484408 seems to have spikes where he/ she experiences an
 abnormally high number of occurences where his/ her heart rate is less
@@ -1444,18 +1436,12 @@ updated_seconds_heartrate_table table. Hence, the “Average Very Active
 Minute” values displayed in the graph are based on respondents who
 experienced a heart rate greater than 100 bpm on each day.
 
-<figure>
-<img src="" alt="Tableau 2" />
-<figcaption aria-hidden="true">Tableau 2</figcaption>
-</figure>
+![TabL(2)](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/64e778af-74dc-489d-8c6d-33d5bcba77ea)
 
 The following graph shows the number of occurences where heart rate \>
 100 bpm each day for respondent 2022484408.
 
-<figure>
-<img src="" alt="Tableau 3" />
-<figcaption aria-hidden="true">Tableau 3</figcaption>
-</figure>
+![TabL(3)](https://github.com/Salil307/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart-/assets/82138341/d8fb53f9-da0d-4b5e-a6c1-3f5bc5fac1b1)
 
 From the graphs above, there is a clear trend between the number of
 occurences where heart rate \> 100 bpm and the average very active
