@@ -1,5 +1,6 @@
 Case Study 2
 ================
+Reference: https://www.kaggle.com/code/kheehou/bellabeat-case-study-r-and-tableau
 
 # Case Study 2: How Can a Wellness Technology Company Play It Smart?
 
