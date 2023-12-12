@@ -1634,8 +1634,6 @@ Source of information:
     incentivised to be more active through a points system and a
     leaderboard.
 
-<!-- -->
-
     * This would help achieve the dual goals of helping Bellabeat's customers burn more          calories and pick up a more active lifestyle.
 
 2.  The Bellabeat app can include a blue light filter that switches on
